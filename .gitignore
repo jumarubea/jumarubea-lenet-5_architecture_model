@@ -1,0 +1,14 @@
+# .gitignore example
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv
+venv/
+env/
+*.log
+*.sqlite3
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
